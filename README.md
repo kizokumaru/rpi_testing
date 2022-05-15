@@ -15,4 +15,4 @@ Utilizaremos Markdown como sistema de estilo para la documentación directa en e
 [CheatSheet_Markdown](https://www.markdownguide.org/cheat-sheet)
 
 ### **Servidor Web**
-Utilizaremos [OpenApi](https://oai.github.io/Documentation/start-here.html) para la documentación de los servicios del servidor.
+Utilizaremos [Open Api](https://oai.github.io/Documentation/start-here.html) para la documentación de los servicios del servidor.
