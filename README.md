@@ -7,6 +7,7 @@ Creamos carpeta dev, donde se construira todo el sistema de desarrollo.
 
 ## **Aplicaciones pre-instaladas.**
 * Visual Studio Code
+* ssh-askpass for VSC use git
 
 ## **Proyectos**
 
