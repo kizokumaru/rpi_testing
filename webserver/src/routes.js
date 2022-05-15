@@ -1,7 +1,7 @@
 exports.routes = function (app) {
 
   app.get('/', function (req, res) {
-    res.sendFile(__dirname + "/index.html");
+    res.status(200).sendFile(__dirname + "/index.html");
     console.log("Página de inicio...")
   })
 

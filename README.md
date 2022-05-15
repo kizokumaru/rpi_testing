@@ -16,3 +16,7 @@ Utilizaremos Markdown como sistema de estilo para la documentación directa en e
 
 ### **Servidor Web**
 Utilizaremos [Open Api](https://oai.github.io/Documentation/start-here.html) para la documentación de los servicios del servidor.
+
+Tech-Stack utilizado:
+- [Nodejs](https://nodejs.dev/)
+

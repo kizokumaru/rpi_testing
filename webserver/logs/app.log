@@ -1,0 +1,29 @@
+{"level":"info","message":"Probando los logs"}
+{"level":"error","message":"Probando los logs"}
+{"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":49.495,"status":304,"timestamp":"Sun May 15 2022 21:27:29 GMT+0200 (hora de verano de Europa central)","url":"/"}
+{"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":3.928,"status":304,"timestamp":"Sun May 15 2022 21:27:43 GMT+0200 (hora de verano de Europa central)","url":"/"}
+{"contentLength":"143","level":"info","message":"HTTP Access Log","method":"GET","responseTime":13.413,"status":404,"timestamp":"Sun May 15 2022 21:27:50 GMT+0200 (hora de verano de Europa central)","url":"/pato"}
+{"contentLength":"144","level":"info","message":"HTTP Access Log","method":"GET","responseTime":1.697,"status":404,"timestamp":"Sun May 15 2022 21:27:53 GMT+0200 (hora de verano de Europa central)","url":"/pato/"}
+{"level":"info","message":"Probando los logs"}
+{"level":"error","message":"Probando los logs"}
+{"contentLength":"144","level":"info","message":"HTTP Access Log","method":"GET","responseTime":18.98,"status":404,"timestamp":"Sun May 15 2022 21:29:02 GMT+0200 (hora de verano de Europa central)","url":"/pato/"}
+{"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":22.07,"status":304,"timestamp":"Sun May 15 2022 21:29:05 GMT+0200 (hora de verano de Europa central)","url":"/"}
+{"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":5.709,"status":304,"timestamp":"Sun May 15 2022 21:29:11 GMT+0200 (hora de verano de Europa central)","url":"/"}
+{"contentLength":"240","level":"info","message":"HTTP Access Log","method":"GET","responseTime":25.952,"status":200,"timestamp":"Sun May 15 2022 21:30:39 GMT+0200 (hora de verano de Europa central)","url":"/"}
+{"level":"info","message":"folder1"}
+{"level":"info","message":"folder1"}
+{"level":"info","message":"folder1 que es?"}
+{"level":"info","message":"folder1 que es?"}
+{"level":"info","message":"folder1 que es?"}
+{"level":"info","message":"folder1 que es?"}
+{"level":"info","message":{"atime":"2022-05-15T18:36:50.743Z","atimeMs":1652639810742.9773,"birthtime":"2022-05-15T18:36:50.743Z","birthtimeMs":1652639810742.9773,"blksize":4096,"blocks":8,"ctime":"2022-05-15T18:37:15.063Z","ctimeMs":1652639835062.9338,"dev":45826,"gid":1000,"ino":392978,"mode":16877,"mtime":"2022-05-15T18:37:15.063Z","mtimeMs":1652639835062.9338,"nlink":3,"rdev":0,"size":4096,"uid":1000}}
+{"level":"info","message":"folder1 que es?"}
+{"level":"info","message":{"atime":"2022-05-15T18:36:50.743Z","atimeMs":1652639810742.9773,"birthtime":"2022-05-15T18:36:50.743Z","birthtimeMs":1652639810742.9773,"blksize":4096,"blocks":8,"ctime":"2022-05-15T18:37:15.063Z","ctimeMs":1652639835062.9338,"dev":45826,"gid":1000,"ino":392978,"mode":16877,"mtime":"2022-05-15T18:37:15.063Z","mtimeMs":1652639835062.9338,"nlink":3,"rdev":0,"size":4096,"uid":1000}}
+{"level":"info","message":"folder1 que es?"}
+{"level":"info","message":{"atime":"2022-05-15T18:36:50.743Z","atimeMs":1652639810742.9773,"birthtime":"2022-05-15T18:36:50.743Z","birthtimeMs":1652639810742.9773,"blksize":4096,"blocks":8,"ctime":"2022-05-15T18:37:15.063Z","ctimeMs":1652639835062.9338,"dev":45826,"gid":1000,"ino":392978,"mode":16877,"mtime":"2022-05-15T18:37:15.063Z","mtimeMs":1652639835062.9338,"nlink":3,"rdev":0,"size":4096,"uid":1000}}
+{"level":"info","message":"folder1 que es?"}
+{"level":"info","message":{"atime":"2022-05-15T18:36:50.743Z","atimeMs":1652639810742.9773,"birthtime":"2022-05-15T18:36:50.743Z","birthtimeMs":1652639810742.9773,"blksize":4096,"blocks":8,"ctime":"2022-05-15T18:37:15.063Z","ctimeMs":1652639835062.9338,"dev":45826,"gid":1000,"ino":392978,"mode":16877,"mtime":"2022-05-15T18:37:15.063Z","mtimeMs":1652639835062.9338,"nlink":3,"rdev":0,"size":4096,"uid":1000}}
+{"level":"info","message":["/home/nestor/Imágenes/folder1"]}
+{"level":"info","message":"folder1 que es?"}
+{"level":"info","message":{"atime":"2022-05-15T18:36:50.743Z","atimeMs":1652639810742.9773,"birthtime":"2022-05-15T18:36:50.743Z","birthtimeMs":1652639810742.9773,"blksize":4096,"blocks":8,"ctime":"2022-05-15T18:37:15.063Z","ctimeMs":1652639835062.9338,"dev":45826,"gid":1000,"ino":392978,"mode":16877,"mtime":"2022-05-15T18:37:15.063Z","mtimeMs":1652639835062.9338,"nlink":3,"rdev":0,"size":4096,"uid":1000}}
+{"level":"info","message":["/home/nestor/Imágenes/folder1"]}
