@@ -10,5 +10,9 @@ Creamos carpeta dev, donde se construira todo el sistema de desarrollo.
 * ssh-askpass for VSC use git
 
 ## **Proyectos**
+### **Documentación**
+Utilizaremos Markdown como sistema de estilo para la documentación directa en el codigo. 
+[CheatSheet_Markdown](https://www.markdownguide.org/cheat-sheet)
 
 ### **Servidor Web**
+Utilizaremos [OpenApi](https://oai.github.io/Documentation/start-here.html) para la documentación de los servicios del servidor.
