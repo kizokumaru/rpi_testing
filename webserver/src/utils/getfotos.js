@@ -12,7 +12,9 @@ exports.listOfFiles= ()=>{
         fs.readdirSync(folderName).map(fileName => {
             logger.info(fileName + ' que es?');
             list.push(path.join(folderName, fileName));
-            logger.info(fs.statSync(path.join(folderName, fileName)));
+            let stats = fs.statSync(path.join(folderName, fileName));
+            var uniqueFileId = ("dev".concat(stats.dev.toString().concat("ino".concat(stats.ino.toString()))));
+            logger.info(uniqueFileId);
             
           });
       } catch (err) {

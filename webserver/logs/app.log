@@ -27,3 +27,14 @@
 {"level":"info","message":"folder1 que es?"}
 {"level":"info","message":{"atime":"2022-05-15T18:36:50.743Z","atimeMs":1652639810742.9773,"birthtime":"2022-05-15T18:36:50.743Z","birthtimeMs":1652639810742.9773,"blksize":4096,"blocks":8,"ctime":"2022-05-15T18:37:15.063Z","ctimeMs":1652639835062.9338,"dev":45826,"gid":1000,"ino":392978,"mode":16877,"mtime":"2022-05-15T18:37:15.063Z","mtimeMs":1652639835062.9338,"nlink":3,"rdev":0,"size":4096,"uid":1000}}
 {"level":"info","message":["/home/nestor/Imágenes/folder1"]}
+{"level":"info","message":"folder1 que es?"}
+{"level":"info","message":["/home/nestor/Imágenes/folder1"]}
+{"level":"info","message":"folder1 que es?"}
+{"level":"info","message":438804}
+{"level":"info","message":["/home/nestor/Imágenes/folder1"]}
+{"level":"info","message":"folder1 que es?"}
+{"level":"info","message":"45826 392978"}
+{"level":"info","message":["/home/nestor/Imágenes/folder1"]}
+{"level":"info","message":"folder1 que es?"}
+{"level":"info","message":"dev45826ino392978"}
+{"level":"info","message":["/home/nestor/Imágenes/folder1"]}
