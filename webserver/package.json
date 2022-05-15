@@ -4,12 +4,19 @@
   "description": "webserver for home",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "jest",
+    "start": "node './src/server.js'"
+  },
+  "env": {
+    "hostname": "127.0.0.1",
+    "port": 3000
   },
   "author": "kizokumaru",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
   }
 }

@@ -42,5 +42,10 @@ Instalamos `express` a nivel local en el directorio del servidor.
 
     sudo npm install express
 
+Instalamos `jest` para las pruebas unitarias. Seguimos instrucciones de [aqui](https://www.testim.io/blog/node-js-unit-testing-get-started-quickly-with-examples/)
+
+    npm install jest --save-dev
+
+
 ## Documentar servicios.
 Utilizaremos el estandar de [Open Api](https://oai.github.io/Documentation/start-here.html)
