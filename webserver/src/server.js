@@ -1,24 +1,43 @@
 // require: Trae la librería express del npm.
-var express = require('express');
+const express = require('express');
 const logger = require('./utils/logger')
 const httpLogger = require('./utils/httpLogger')
-var routes = require('./routes');
-
+const routes = require('./routes');
 
 const port = 3000;
 logger.info('Probando los logs');
+
 // Se invoca la función (de la variable express) y se almacena en la variable app.
-var app = express();
-app.use(httpLogger);
+class Server{
+  constructor(){
+    this.app=null;
+    this.router=null;
+    this.initExpress();
+    this.initHttpLogger();
+    this.start();
+  }
 
-app.listen(port,  () => {
-  //logger.info(`App is running at http://localhost:${port}`);
-  logger.error('Probando los logs');
-  //await connect();
+  initExpress(){
+    this.app = express();
+    this.router = express.Router();  
+  }
+  initHttpLogger(){
+    this.app.use(httpLogger);
+  }
+  start(){
+    this.app.listen(port,  () => {
+      
+      logger.info(`Arrancando servidor en http://localhost:${port}`);
+      
+      
+      let rt = new routes(this.app);
 
-  routes.routes(app);
+    });
+    
+  };
+}
 
-//  startMetricsServer();
 
-  //swaggerDocs(app, port);
-});
+
+
+new Server();

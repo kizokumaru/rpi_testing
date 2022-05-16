@@ -2,6 +2,8 @@ const fs = require('fs');
 const folderName = '/home/nestor/Imágenes/';
 const logger = require('./logger')
 const path = require('path');
+const File = require('./file.mjs');
+
 
 class ListFiles {
     constructor(){
@@ -22,12 +24,13 @@ class ListFiles {
           }
       
           if (stats.isFile()) { 
-            list.push(fileName); 
+            let file = new File(fileName, filePath, stats.dev, stats.ino);
+            list.push(file); 
           }
         })
-        logger.info('Salimos en getFilesInFolder ' + level + ' : ' + list);
         return list;
       }
  }
+
  module.exports = ListFiles;
  
