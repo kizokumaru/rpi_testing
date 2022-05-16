@@ -38,3 +38,838 @@
 {"level":"info","message":"folder1 que es?"}
 {"level":"info","message":"dev45826ino392978"}
 {"level":"info","message":["/home/nestor/Imágenes/folder1"]}
+{"level":"info","message":"folder1 que es?"}
+{"level":"info","message":"dev45826ino392978"}
+{"level":"info","message":["/home/nestor/Imágenes/folder1"]}
+{"level":"info","message":"folder1 que es?"}
+{"level":"info","message":"is a folder"}
+{"level":"info","message":"is a file"}
+{"level":"info","message":"dev45826ino392978"}
+{"level":"info","message":["/home/nestor/Imágenes/folder1"]}
+{"level":"info","message":"folder1 que es?"}
+{"level":"info","message":"is a folder true"}
+{"level":"info","message":"is a file false"}
+{"level":"info","message":"dev45826ino392978"}
+{"level":"info","message":["/home/nestor/Imágenes/folder1"]}
+{"level":"info","message":"folder1 que es?"}
+{"level":"info","message":"is a folder true"}
+{"level":"info","message":"is a file false"}
+{"level":"info","message":"dev45826ino392978"}
+{"level":"info","message":["/home/nestor/Imágenes/folder1"]}
+{"level":"info"}
+{"level":"info","message":"/home/nestor/Imágenes/"}
+{"level":"info","message":"/home/nestor/Imágenes/"}
+{"level":"info","message":"/home/nestor/Imágenes/"}
+{"level":"info","message":"folder1"}
+{"level":"info","message":"/home/nestor/Imágenes/"}
+{"level":"info","message":"folder1"}
+{"level":"info","message":"/home/nestor/Imágenes/"}
+{"level":"info","message":"folder1"}
+{"level":"info","message":"/home/nestor/Imágenes/"}
+{"level":"info","message":"folder1 false"}
+{"level":"info","message":"/home/nestor/Imágenes/"}
+{"level":"info","message":"is file."}
+{"level":"info","message":"/home/nestor/Imágenes/"}
+{"level":"info","message":"folder1 is folder"}
+{"level":"info","message":"/home/nestor/Imágenes/"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1"}
+{"level":"info","message":"folder1 is folder"}
+{"level":"info","message":"/home/nestor/Imágenes"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1"}
+{"level":"info","message":"folder1 is folder"}
+{"level":"info","message":"/home/nestor/Imágenes"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1"}
+{"level":"info","message":"folder1 is folder"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/RPiSystem.png"}
+{"level":"info","message":"RPiSystem.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/RPiSystem.png"}
+{"level":"info","message":"Entramos en getFilesInFolder"}
+{"level":"info","message":"/home/nestor/Imágenes"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1"}
+{"level":"info","message":"folder1 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/RPiSystem.png"}
+{"level":"info","message":"RPiSystem.png is file."}
+{"level":"info","message":"Entramos en getFilesInFolder"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/RPiSystem.png"}
+{"level":"info","message":"Entramos en getFilesInFolder"}
+{"level":"info","message":"/home/nestor/Imágenes"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1"}
+{"level":"info","message":"folder1 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/RPiSystem.png"}
+{"level":"info","message":"RPiSystem.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2"}
+{"level":"info","message":"folder2 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/aurora.jpg"}
+{"level":"info","message":"aurora.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/balloon.jpg"}
+{"level":"info","message":"balloon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/bridge.jpg"}
+{"level":"info","message":"bridge.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/canyon.jpg"}
+{"level":"info","message":"canyon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/cliff.jpg"}
+{"level":"info","message":"cliff.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/clouds.jpg"}
+{"level":"info","message":"clouds.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fisherman.jpg"}
+{"level":"info","message":"fisherman.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fjord.jpg"}
+{"level":"info","message":"fjord.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/islands.jpg"}
+{"level":"info","message":"islands.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/lasers.jpg"}
+{"level":"info","message":"lasers.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/lasers.jpg"}
+{"level":"info","message":"lasers.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/license.txt"}
+{"level":"info","message":"license.txt is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/mountain.jpg"}
+{"level":"info","message":"mountain.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/raspberry-pi-logo.png"}
+{"level":"info","message":"raspberry-pi-logo.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/road.jpg"}
+{"level":"info","message":"road.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/sand.jpg"}
+{"level":"info","message":"sand.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/temple.jpg"}
+{"level":"info","message":"temple.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/trees.jpg"}
+{"level":"info","message":"trees.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/waterfall.jpg"}
+{"level":"info","message":"waterfall.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder: RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"Salimos en getFilesInFolder: "}
+{"level":"info","message":"Entramos en getFilesInFolder"}
+{"level":"info","message":"/home/nestor/Imágenes"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1"}
+{"level":"info","message":"folder1 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/RPiSystem.png"}
+{"level":"info","message":"RPiSystem.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2"}
+{"level":"info","message":"folder2 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/aurora.jpg"}
+{"level":"info","message":"aurora.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/balloon.jpg"}
+{"level":"info","message":"balloon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/bridge.jpg"}
+{"level":"info","message":"bridge.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/canyon.jpg"}
+{"level":"info","message":"canyon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/cliff.jpg"}
+{"level":"info","message":"cliff.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/clouds.jpg"}
+{"level":"info","message":"clouds.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fisherman.jpg"}
+{"level":"info","message":"fisherman.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fjord.jpg"}
+{"level":"info","message":"fjord.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/islands.jpg"}
+{"level":"info","message":"islands.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/lasers.jpg"}
+{"level":"info","message":"lasers.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/lasers.jpg"}
+{"level":"info","message":"lasers.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/license.txt"}
+{"level":"info","message":"license.txt is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/mountain.jpg"}
+{"level":"info","message":"mountain.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/raspberry-pi-logo.png"}
+{"level":"info","message":"raspberry-pi-logo.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/road.jpg"}
+{"level":"info","message":"road.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/sand.jpg"}
+{"level":"info","message":"sand.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/temple.jpg"}
+{"level":"info","message":"temple.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/trees.jpg"}
+{"level":"info","message":"trees.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/waterfall.jpg"}
+{"level":"info","message":"waterfall.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder: RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"Salimos en getFilesInFolder: "}
+{"level":"info","message":"Entramos en getFilesInFolder"}
+{"level":"info","message":"/home/nestor/Imágenes"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1"}
+{"level":"info","message":"folder1 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/RPiSystem.png"}
+{"level":"info","message":"RPiSystem.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2"}
+{"level":"info","message":"folder2 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/aurora.jpg"}
+{"level":"info","message":"aurora.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/balloon.jpg"}
+{"level":"info","message":"balloon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/bridge.jpg"}
+{"level":"info","message":"bridge.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/canyon.jpg"}
+{"level":"info","message":"canyon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/cliff.jpg"}
+{"level":"info","message":"cliff.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/clouds.jpg"}
+{"level":"info","message":"clouds.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fisherman.jpg"}
+{"level":"info","message":"fisherman.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fjord.jpg"}
+{"level":"info","message":"fjord.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/islands.jpg"}
+{"level":"info","message":"islands.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/lasers.jpg"}
+{"level":"info","message":"lasers.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"lista de ficheros: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"Entramos en getFilesInFolder"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/aurora.jpg"}
+{"level":"info","message":"aurora.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/balloon.jpg"}
+{"level":"info","message":"balloon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/bridge.jpg"}
+{"level":"info","message":"bridge.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/canyon.jpg"}
+{"level":"info","message":"canyon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/cliff.jpg"}
+{"level":"info","message":"cliff.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/clouds.jpg"}
+{"level":"info","message":"clouds.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fisherman.jpg"}
+{"level":"info","message":"fisherman.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fjord.jpg"}
+{"level":"info","message":"fjord.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/islands.jpg"}
+{"level":"info","message":"islands.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/lasers.jpg"}
+{"level":"info","message":"lasers.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/lasers.jpg"}
+{"level":"info","message":"lasers.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/license.txt"}
+{"level":"info","message":"license.txt is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/mountain.jpg"}
+{"level":"info","message":"mountain.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/raspberry-pi-logo.png"}
+{"level":"info","message":"raspberry-pi-logo.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/road.jpg"}
+{"level":"info","message":"road.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/sand.jpg"}
+{"level":"info","message":"sand.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/temple.jpg"}
+{"level":"info","message":"temple.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/trees.jpg"}
+{"level":"info","message":"trees.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/waterfall.jpg"}
+{"level":"info","message":"waterfall.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder: RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"lista de ficheros: RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"Entramos en getFilesInFolder"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/RPiSystem.png"}
+{"level":"info","message":"RPiSystem.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2"}
+{"level":"info","message":"folder2 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/aurora.jpg"}
+{"level":"info","message":"aurora.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/balloon.jpg"}
+{"level":"info","message":"balloon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/bridge.jpg"}
+{"level":"info","message":"bridge.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/canyon.jpg"}
+{"level":"info","message":"canyon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/cliff.jpg"}
+{"level":"info","message":"cliff.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/clouds.jpg"}
+{"level":"info","message":"clouds.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fisherman.jpg"}
+{"level":"info","message":"fisherman.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fjord.jpg"}
+{"level":"info","message":"fjord.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/islands.jpg"}
+{"level":"info","message":"islands.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/lasers.jpg"}
+{"level":"info","message":"lasers.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"lista de ficheros: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"Entramos en getFilesInFolder"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/aurora.jpg"}
+{"level":"info","message":"aurora.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/balloon.jpg"}
+{"level":"info","message":"balloon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/bridge.jpg"}
+{"level":"info","message":"bridge.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/canyon.jpg"}
+{"level":"info","message":"canyon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/cliff.jpg"}
+{"level":"info","message":"cliff.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/clouds.jpg"}
+{"level":"info","message":"clouds.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fisherman.jpg"}
+{"level":"info","message":"fisherman.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fjord.jpg"}
+{"level":"info","message":"fjord.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/islands.jpg"}
+{"level":"info","message":"islands.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/lasers.jpg"}
+{"level":"info","message":"lasers.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/lasers.jpg"}
+{"level":"info","message":"lasers.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/license.txt"}
+{"level":"info","message":"license.txt is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/mountain.jpg"}
+{"level":"info","message":"mountain.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/raspberry-pi-logo.png"}
+{"level":"info","message":"raspberry-pi-logo.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/road.jpg"}
+{"level":"info","message":"road.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/sand.jpg"}
+{"level":"info","message":"sand.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/temple.jpg"}
+{"level":"info","message":"temple.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/trees.jpg"}
+{"level":"info","message":"trees.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/waterfall.jpg"}
+{"level":"info","message":"waterfall.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder: RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"Salimos en getFilesInFolder: "}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/RPiSystem.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1/folder2"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/aurora.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/balloon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/bridge.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/canyon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/cliff.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/clouds.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fisherman.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fjord.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/islands.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/lasers.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"lista de ficheros: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1/folder2"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/aurora.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/balloon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/bridge.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/canyon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/cliff.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/clouds.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fisherman.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fjord.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/islands.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/lasers.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/lasers.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/license.txt is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/mountain.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/raspberry-pi-logo.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/road.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/sand.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/temple.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/trees.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/waterfall.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder: RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"lista de ficheros: RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/RPiSystem.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1/folder2"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/aurora.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/balloon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/bridge.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/canyon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/cliff.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/clouds.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fisherman.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fjord.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/islands.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/lasers.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"lista de ficheros: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1/folder2"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/aurora.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/balloon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/bridge.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/canyon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/cliff.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/clouds.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fisherman.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fjord.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/islands.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/lasers.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/lasers.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/license.txt is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/mountain.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/raspberry-pi-logo.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/road.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/sand.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/temple.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/trees.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/waterfall.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder: RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"Salimos en getFilesInFolder: "}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes level: NaN"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1 level: NaN"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/RPiSystem.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1/folder2 level: NaN"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/aurora.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/balloon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/bridge.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/canyon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/cliff.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/clouds.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fisherman.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fjord.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/islands.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/lasers.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"lista de ficheros: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/lasers.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/license.txt is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/mountain.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/raspberry-pi-logo.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/road.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/sand.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/temple.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/trees.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/waterfall.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder: RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"lista de ficheros: RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"Salimos en getFilesInFolder: "}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes level: NaN"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1 level: NaN"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/RPiSystem.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1/folder2 level: NaN"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/aurora.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/balloon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/bridge.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/canyon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/cliff.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/clouds.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fisherman.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fjord.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/islands.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/lasers.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"lista de ficheros: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/lasers.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/license.txt is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/mountain.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/raspberry-pi-logo.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/road.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/sand.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/temple.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/trees.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/waterfall.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder: RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"lista de ficheros: RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"Salimos en getFilesInFolder: "}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes level: 1"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1 level: NaN"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/RPiSystem.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1/folder2 level: NaN"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/aurora.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/balloon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/bridge.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/canyon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/cliff.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/clouds.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fisherman.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fjord.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/islands.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/lasers.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"lista de ficheros: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/lasers.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/license.txt is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/mountain.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/raspberry-pi-logo.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/road.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/sand.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/temple.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/trees.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/waterfall.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder: RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"lista de ficheros: RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"Salimos en getFilesInFolder: "}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes level: 1"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1 level: NaN"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/RPiSystem.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1/folder2 level: NaN"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/aurora.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/balloon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/bridge.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/canyon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/cliff.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/clouds.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fisherman.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fjord.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/islands.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/lasers.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"lista de ficheros: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/lasers.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/license.txt is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/mountain.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/raspberry-pi-logo.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/road.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/sand.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/temple.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/trees.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/waterfall.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder: RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"lista de ficheros: RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"Salimos en getFilesInFolder: "}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes level: 1"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1 level: NaN"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/RPiSystem.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1/folder2 level: NaN"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/aurora.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/balloon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/bridge.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/canyon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/cliff.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/clouds.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fisherman.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fjord.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/islands.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/lasers.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"lista de ficheros: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/lasers.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/license.txt is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/mountain.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/raspberry-pi-logo.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/road.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/sand.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/temple.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/trees.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/waterfall.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder: RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"lista de ficheros: RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"Salimos en getFilesInFolder: "}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes level: 1"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1 level: 2"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/RPiSystem.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1/folder2 level: 3"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/aurora.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/balloon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/bridge.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/canyon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/cliff.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/clouds.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fisherman.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fjord.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/islands.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/lasers.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"lista de ficheros: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/lasers.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/license.txt is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/mountain.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/raspberry-pi-logo.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/road.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/sand.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/temple.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/trees.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/waterfall.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder: RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"lista de ficheros: RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"Salimos en getFilesInFolder: "}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes level: 1"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1 level: 2"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/RPiSystem.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1/folder2 level: 3"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/aurora.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/balloon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/bridge.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/canyon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/cliff.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/clouds.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fisherman.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fjord.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/islands.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/lasers.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"lista de ficheros: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/lasers.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/license.txt is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/mountain.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/raspberry-pi-logo.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/road.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/sand.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/temple.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/trees.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/waterfall.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder: RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"lista de ficheros: RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"Salimos en getFilesInFolder: "}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes level: 1"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1 level: 2"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/RPiSystem.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1/folder2 level: 3"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/aurora.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/balloon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/bridge.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/canyon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/cliff.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/clouds.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fisherman.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fjord.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/islands.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/lasers.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"lista de ficheros: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/lasers.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/license.txt is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/mountain.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/raspberry-pi-logo.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/road.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/sand.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/temple.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/trees.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/waterfall.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder: RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"lista de ficheros: RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"Salimos en getFilesInFolder: "}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes level: 1"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1 level: 2"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/RPiSystem.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1/folder2 level: 3"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/aurora.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/balloon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/bridge.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/canyon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/cliff.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/clouds.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fisherman.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fjord.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/islands.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/lasers.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder 3 : aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"lista de ficheros: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/lasers.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/license.txt is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/mountain.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/raspberry-pi-logo.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/road.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/sand.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/temple.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/trees.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/waterfall.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder 2 : RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"lista de ficheros: RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"Salimos en getFilesInFolder 1 : "}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes level: 1"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1 level: 2"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/RPiSystem.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1/folder2 level: 3"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/aurora.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/balloon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/bridge.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/canyon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/cliff.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/clouds.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fisherman.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fjord.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/islands.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/lasers.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder 3 : aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"lista de ficheros: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/lasers.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/license.txt is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/mountain.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/raspberry-pi-logo.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/road.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/sand.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/temple.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/trees.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/waterfall.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder 2 : RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"lista de ficheros: RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"Salimos en getFilesInFolder 1 : "}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes level: 1"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1 level: 2"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/RPiSystem.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1/folder2 level: 3"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/aurora.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/balloon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/bridge.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/canyon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/cliff.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/clouds.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fisherman.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fjord.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/islands.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/lasers.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder 3 : aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"lista de ficheros: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/lasers.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/license.txt is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/mountain.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/raspberry-pi-logo.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/road.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/sand.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/temple.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/trees.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/waterfall.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder 2 : RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"lista de ficheros: RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"Salimos en getFilesInFolder 1 : "}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes level: 1"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1 level: 2"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/RPiSystem.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1/folder2 level: 3"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/aurora.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/balloon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/bridge.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/canyon.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/cliff.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/clouds.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fisherman.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/fjord.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/islands.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2/lasers.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder 3 : aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/lasers.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/license.txt is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/mountain.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/raspberry-pi-logo.png is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/road.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/sand.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/temple.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/trees.jpg is file."}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/waterfall.jpg is file."}
+{"level":"info","message":"Salimos en getFilesInFolder 2 : RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"Salimos en getFilesInFolder 1 : "}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes level: 1"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1 level: 2"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2 is folder"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1/folder2 level: 3"}
+{"level":"info","message":"Salimos en getFilesInFolder 3 : aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"Salimos en getFilesInFolder 2 : RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"Salimos en getFilesInFolder 1 : "}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes level: 1"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1 is folder"}
+{"level":"info","message":"list antes de nuevo nivel: "}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1 level: 2"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2 is folder"}
+{"level":"info","message":"list antes de nuevo nivel: RPiSystem.png"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1/folder2 level: 3"}
+{"level":"info","message":"Salimos en getFilesInFolder 3 : aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"list despues de nuevo nivel: RPiSystem.png"}
+{"level":"info","message":"Salimos en getFilesInFolder 2 : RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"list despues de nuevo nivel: "}
+{"level":"info","message":"Salimos en getFilesInFolder 1 : "}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes level: 1"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1 is folder"}
+{"level":"info","message":"list antes de nuevo nivel: "}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes level: 1"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1 is folder"}
+{"level":"info","message":"list antes de nuevo nivel: "}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1 level: 2"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2 is folder"}
+{"level":"info","message":"list antes de nuevo nivel: RPiSystem.png"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1/folder2 level: 3"}
+{"level":"info","message":"Salimos en getFilesInFolder 3 : aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"res que han devuelto: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"list despues de nuevo nivel: RPiSystem.png"}
+{"level":"info","message":"Salimos en getFilesInFolder 2 : RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"res que han devuelto: RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"list despues de nuevo nivel: "}
+{"level":"info","message":"Salimos en getFilesInFolder 1 : "}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes level: 1"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1 is folder"}
+{"level":"info","message":"list antes de nuevo nivel: "}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1 level: 2"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2 is folder"}
+{"level":"info","message":"list antes de nuevo nivel: RPiSystem.png"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1/folder2 level: 3"}
+{"level":"info","message":"Salimos en getFilesInFolder 3 : aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"res que han devuelto: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"list despues de nuevo nivel: RPiSystem.png,aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"Salimos en getFilesInFolder 2 : RPiSystem.png,aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"res que han devuelto: RPiSystem.png,aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"list despues de nuevo nivel: RPiSystem.png,aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"Salimos en getFilesInFolder 1 : RPiSystem.png,aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes level: 1"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1 is folder"}
+{"level":"info","message":"list antes de nuevo nivel: "}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1 level: 2"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2 is folder"}
+{"level":"info","message":"list antes de nuevo nivel: RPiSystem.png"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1/folder2 level: 3"}
+{"level":"info","message":"Salimos en getFilesInFolder 3 : aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"res que han devuelto: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"list despues de nuevo nivel: RPiSystem.png"}
+{"level":"info","message":"Salimos en getFilesInFolder 2 : RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"res que han devuelto: RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"list despues de nuevo nivel: "}
+{"level":"info","message":"Salimos en getFilesInFolder 1 : "}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes level: 1"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1 is folder"}
+{"level":"info","message":"list antes de nuevo nivel: "}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1 level: 2"}
+{"level":"info","message":"/home/nestor/Imágenes/folder1/folder2 is folder"}
+{"level":"info","message":"list antes de nuevo nivel: RPiSystem.png"}
+{"level":"info","message":"Entramos en getFilesInFolder /home/nestor/Imágenes/folder1/folder2 level: 3"}
+{"level":"info","message":"Salimos en getFilesInFolder 3 : aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"res que han devuelto: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"list despues de nuevo nivel: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg,RPiSystem.png"}
+{"level":"info","message":"Salimos en getFilesInFolder 2 : aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg,RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"res que han devuelto: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg,RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"list despues de nuevo nivel: aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg,RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"Salimos en getFilesInFolder 1 : aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg,RPiSystem.png,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"Salimos en getFilesInFolder 3 : aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"Salimos en getFilesInFolder 2 : RPiSystem.png,aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"Salimos en getFilesInFolder 1 : RPiSystem.png,aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"Salimos en getFilesInFolder 3 : aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg"}
+{"level":"info","message":"Salimos en getFilesInFolder 2 : RPiSystem.png,aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}
+{"level":"info","message":"Salimos en getFilesInFolder 1 : RPiSystem.png,aurora.jpg,balloon.jpg,bridge.jpg,canyon.jpg,cliff.jpg,clouds.jpg,fisherman.jpg,fjord.jpg,islands.jpg,lasers.jpg,lasers.jpg,license.txt,mountain.jpg,raspberry-pi-logo.png,road.jpg,sand.jpg,temple.jpg,trees.jpg,waterfall.jpg"}

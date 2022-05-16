@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "webserver for home",
   "main": "server.js",
+  "type":"module",
   "scripts": {
     "test": "jest",
-    "start": "node './src/server.js'"
+    "start": "node --experimental-vm-modules './src/server.js'"
   },
   "env": {
     "hostname": "127.0.0.1",
