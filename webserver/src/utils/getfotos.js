@@ -3,7 +3,7 @@ const folderName = '/home/nestor/Imágenes/';
 const logger = require('./logger')
 const path = require('path');
 
-exports.listOfFiles = () => {
+module.exports.listOfFiles = () => {
   let list = [];
   try {
     /*if (!fs.existsSync(folderName)) {

@@ -1,6 +1,6 @@
 // require: Trae la librería express del npm.
 const express = require('express');
-const logger = require('./utils/logger')
+const logger = require('./utils/logger.js')
 const httpLogger = require('./utils/httpLogger')
 const routes = require('./routes');
 
@@ -14,9 +14,10 @@ class Server{
     this.router=null;
     this.initExpress();
     this.initHttpLogger();
+
     this.start();
   }
-
+  
   initExpress(){
     this.app = express();
     this.router = express.Router();  

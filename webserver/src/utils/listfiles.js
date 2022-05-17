@@ -1,8 +1,8 @@
 const fs = require('fs');
 const folderName = '/home/nestor/Imágenes/';
-const logger = require('./logger')
+const logger = require('./logger.js')
 const path = require('path');
-const File = require('./file.mjs');
+const File = require('./file.js');
 
 
 class ListFiles {
@@ -33,4 +33,3 @@ class ListFiles {
  }
 
  module.exports = ListFiles;
- 
