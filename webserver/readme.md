@@ -46,6 +46,7 @@ Instalamos `jest` para las pruebas unitarias. Seguimos instrucciones de [aqui](h
 
     npm install jest --save-dev
 
+Revisar tutorial [react frontend, express backend y contectarlos](https://www.techomoro.com/how-to-create-a-react-frontend-express-backend-and-connect-them-together/)
 
 ## Documentar servicios.
 Utilizaremos el estandar de [Open Api](https://oai.github.io/Documentation/start-here.html)
