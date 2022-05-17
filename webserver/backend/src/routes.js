@@ -29,7 +29,8 @@ const listfiles = require('./utils/listfiles.js');
   getFotos() {
     this.app.get("/fotos", async (req, res) => {
       try {
-        res.status(200).json({
+        res.status(200).json(
+          {
           data: this.fotoslist
         });
       } catch (err) {

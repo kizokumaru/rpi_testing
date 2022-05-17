@@ -1,4 +1,4 @@
-const listfiles = require('../../src/utils/listfiles.js');
+const listfiles = require('../../backend/src/utils/listfiles.js');
 
 /*test('Mostrar ficheros de la ruta base', () => {
   let list = [];

@@ -20,3 +20,5 @@ Utilizaremos [Open Api](https://oai.github.io/Documentation/start-here.html) par
 Tech-Stack utilizado:
 - [Nodejs](https://nodejs.dev/)
 
+
+frontend revisar url https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
