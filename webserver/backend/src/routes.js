@@ -5,9 +5,11 @@ const listfiles = require('./utils/listfiles.js');
   constructor(app) {
     logger.info('Arrancamos rutas');
     this.app = app;
+    this.fotoslist = new listfiles().getFilesInFolder("/home/nestor/Imágenes", 0);
     this.getRoot();
     this.getCursos();
     this.getFotos();
+    this.getFoto();
   }
 
   getRoot() {
@@ -27,10 +29,8 @@ const listfiles = require('./utils/listfiles.js');
   getFotos() {
     this.app.get("/fotos", async (req, res) => {
       try {
-        let lf = new listfiles();
-        let fotoslist = lf.getFilesInFolder("/home/nestor/Imágenes", 0);
         res.status(200).json({
-          data: fotoslist
+          data: this.fotoslist
         });
       } catch (err) {
         res.status(400).json({
@@ -41,14 +41,14 @@ const listfiles = require('./utils/listfiles.js');
     })
   }
 
-  /*getFoto(){
+  getFoto(){
     this.app.get("/fotos/:id", async (req, res) => {
       let { id } = req.params;
       id = Number(id);
       try {
-        let player = players.find(player => player._id === id);
+        let foto = this.fotoslist.find(foto => foto._id === id.toString());
         res.status(200).json({
-          data: player
+          data: foto
         });
       } catch (err) {
         res.status(400).json({
@@ -57,6 +57,6 @@ const listfiles = require('./utils/listfiles.js');
         });
       }
     });
-  }*/
+  }
 }
 module.exports = Routes;

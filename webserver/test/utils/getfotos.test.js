@@ -1,4 +1,4 @@
-const listfiles = require('../../src/utils/listfiles.mjs');
+const listfiles = require('../../src/utils/listfiles.js');
 
 /*test('Mostrar ficheros de la ruta base', () => {
   let list = [];
@@ -16,4 +16,14 @@ test('Recorremos una carpeta y mostramos los elementos internos identificando si
   expect(listOfName.includes("lasers.jpg")).toStrictEqual(true);
   expect(listOfName.includes("road.jpg")).toStrictEqual(true);
   expect(list[0].name).toStrictEqual('RPiSystem.png');
+})
+
+
+test('Obtenemos una foto de la lista.',() => {
+  console.log('Test Obtenemos una foto de la lista');
+  let id = 45826392993;
+  let lf = new listfiles();
+  let list = lf.getFilesInFolder("/home/nestor/Imágenes", 0);
+  let foto = list.find(foto => foto._id === id.toString());
+  console.log(foto);
 })
