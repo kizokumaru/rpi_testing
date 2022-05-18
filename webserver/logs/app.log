@@ -1081,3 +1081,28 @@
 {"contentLength":"2486","level":"info","message":"HTTP Access Log","method":"GET","responseTime":2.703,"status":200,"timestamp":"Tue May 17 2022 21:33:46 GMT+0200 (hora de verano de Europa central)","url":"/fotos"}
 {"contentLength":"2486","level":"info","message":"HTTP Access Log","method":"GET","responseTime":2.087,"status":200,"timestamp":"Tue May 17 2022 21:35:02 GMT+0200 (hora de verano de Europa central)","url":"/fotos"}
 {"contentLength":"2486","level":"info","message":"HTTP Access Log","method":"GET","responseTime":1.618,"status":200,"timestamp":"Tue May 17 2022 21:35:02 GMT+0200 (hora de verano de Europa central)","url":"/fotos"}
+{"level":"info","message":"Probando los logs"}
+{"level":"info","message":"Arrancando servidor en http://localhost:3001"}
+{"level":"info","message":"Arrancamos rutas"}
+{"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":19.304,"status":304,"timestamp":"Wed May 18 2022 05:52:12 GMT+0200 (hora de verano de Europa central)","url":"/"}
+{"contentLength":"150","level":"info","message":"HTTP Access Log","method":"GET","responseTime":12.494,"status":404,"timestamp":"Wed May 18 2022 05:52:13 GMT+0200 (hora de verano de Europa central)","url":"/favicon.ico"}
+{"contentLength":"2486","level":"info","message":"HTTP Access Log","method":"GET","responseTime":10.976,"status":200,"timestamp":"Wed May 18 2022 05:52:19 GMT+0200 (hora de verano de Europa central)","url":"/fotos"}
+{"level":"info","message":"Probando los logs"}
+{"level":"info","message":"Arrancando servidor en http://localhost:3001"}
+{"level":"info","message":"Arrancamos rutas"}
+{"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":14.059,"status":304,"timestamp":"Wed May 18 2022 06:14:49 GMT+0200 (hora de verano de Europa central)","url":"/fotos"}
+{"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":9.871,"status":304,"timestamp":"Wed May 18 2022 06:17:55 GMT+0200 (hora de verano de Europa central)","url":"/fotos"}
+{"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":1.335,"status":304,"timestamp":"Wed May 18 2022 06:17:55 GMT+0200 (hora de verano de Europa central)","url":"/fotos"}
+{"contentLength":"132","level":"info","message":"HTTP Access Log","method":"GET","responseTime":6.927,"status":200,"timestamp":"Wed May 18 2022 06:18:12 GMT+0200 (hora de verano de Europa central)","url":"/fotos/45826392993"}
+{"level":"info","message":"Probando los logs"}
+{"level":"info","message":"Arrancando servidor en http://localhost:3001"}
+{"level":"info","message":"Arrancamos rutas"}
+{"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":22.51,"status":304,"timestamp":"Wed May 18 2022 06:19:11 GMT+0200 (hora de verano de Europa central)","url":"/fotos"}
+{"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":6.613,"status":304,"timestamp":"Wed May 18 2022 06:19:11 GMT+0200 (hora de verano de Europa central)","url":"/fotos"}
+{"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":3.68,"status":304,"timestamp":"Wed May 18 2022 06:19:13 GMT+0200 (hora de verano de Europa central)","url":"/fotos/45826392979"}
+{"level":"info","message":"Probando los logs"}
+{"level":"info","message":"Arrancando servidor en http://localhost:3001"}
+{"level":"info","message":"Arrancamos rutas"}
+{"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":15.995,"status":304,"timestamp":"Wed May 18 2022 06:21:19 GMT+0200 (hora de verano de Europa central)","url":"/"}
+{"contentLength":"304","level":"info","message":"HTTP Access Log","method":"GET","responseTime":14.328,"status":200,"timestamp":"Wed May 18 2022 06:21:48 GMT+0200 (hora de verano de Europa central)","url":"/"}
+{"contentLength":"191","level":"info","message":"HTTP Access Log","method":"GET","responseTime":11.06,"status":404,"timestamp":"Wed May 18 2022 06:21:48 GMT+0200 (hora de verano de Europa central)","url":"/home/nestor/Im%C3%A1genes/folder1/folder2/aurora.jpg"}

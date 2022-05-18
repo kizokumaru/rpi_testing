@@ -29,10 +29,13 @@ const listfiles = require('./utils/listfiles.js');
   getFotos() {
     this.app.get("/fotos", async (req, res) => {
       try {
+        res.setHeader('Content-Type', 'application/json');
+        res.setHeader('Access-Control-Allow-Origin', '*');
         res.status(200).json(
           {
           data: this.fotoslist
         });
+        console.log(res);
       } catch (err) {
         res.status(400).json({
           message: "Some error occured",
@@ -48,6 +51,8 @@ const listfiles = require('./utils/listfiles.js');
       id = Number(id);
       try {
         let foto = this.fotoslist.find(foto => foto._id === id.toString());
+        res.setHeader('Content-Type', 'application/json');
+        res.setHeader('Access-Control-Allow-Origin', '*');
         res.status(200).json({
           data: foto
         });

@@ -8,7 +8,7 @@ export default function App() {
 
   console.log('React app nestor');
   useEffect(() => {
-    fetch('http://localhost:3001/fotos',{mode: 'cors-anywhere'})
+    fetch('http://localhost:3001/fotos')
       .then((response) => response.json())
       .then((responseJson) => {
         setPlayers(responseJson.data);
@@ -18,7 +18,7 @@ export default function App() {
 
   let showCard = (id) => {
     
-    fetch(`http://localhost:3001/fotos/${id}`,{mode: 'cors-anywhere'})
+    fetch(`http://localhost:3001/fotos/${id}`)
       .then((response) => response.json())
       .then((responseJson) => {
         setPlayer(responseJson.data);
