@@ -1,0 +1,27 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "webserver for home",
+  "main": "./backend/src/server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node './backend/src/server.js'"
+  },
+  "env": {
+    "hostname": "127.0.0.1",
+    "port": 3000
+  },
+  "author": "kizokumaru",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "morgan": "^1.10.0",
+    "morgan-json": "^1.1.0",
+    "nodemon": "^2.0.16",
+    "path": "^0.12.7",
+    "winston": "^3.7.2"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}

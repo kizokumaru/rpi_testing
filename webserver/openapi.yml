@@ -1,0 +1,12 @@
+openapi: '3.0.2'
+info:
+  title: getPhotos
+  version: '1.0'
+servers:
+  - url: https://localhost:8989
+paths:
+  /:
+    get:
+      responses:
+        '200':
+          description: OK
