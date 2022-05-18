@@ -1,8 +1,9 @@
 import React, { useState, useEffect } from "react";
 
 export default function App() {
-  const [list, setList] = useState(true);
+  const [list, setList] = useState(false);
   const [card, setCard] = useState(false);
+  const [table, setTable] = useState(true);
   const [players, setPlayers] = useState([]);
   const [player, setPlayer] = useState({});
 
@@ -17,28 +18,30 @@ export default function App() {
   }, []);
 
   let showCard = (id) => {
-    
+
     fetch(`http://localhost:3001/fotos/${id}`)
       .then((response) => response.json())
       .then((responseJson) => {
         setPlayer(responseJson.data);
         setList(false);
         setCard(true);
-          });
-          
+        setCard(false);
+      });
+
   };
 
   let showList = () => {
     setCard(false);
     setList(true);
+    setCard(false);
   };
 
 
-  
-       
+
+
   return (
     <div className="container">
-  {list ? (
+      {list ? (
         <div className="list-group">
           {players.map((player) => (
             <li
@@ -50,6 +53,7 @@ export default function App() {
           ))}
         </div>
       ) : null}
+
       {card ? (
         <div class="card" style={{ width: "18rem" }}>
           <div class="card-body">
@@ -61,6 +65,15 @@ export default function App() {
           </div>
         </div>
       ) : null}
-    </div>
+      {table ? (
+        <div class="row">
+            {players.map((player) => (
+              <div class=".col-sm">
+            <img src={player.path} alt="Los Angeles" ></img>
+          </div>
+          ))}
+        </div>
+      ) : null}
+    </div >
   )
 }
