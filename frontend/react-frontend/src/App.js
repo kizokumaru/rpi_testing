@@ -11,7 +11,7 @@ export default function App() {
       .then((response) => response.json())
       .then((responseJson) => {
         const imgsrc = responseJson.data.map(({_id,path, name}) => {
-          return <img key={_id} src={path} alt={name}/>;
+          return <img  key={_id} src={path} alt={name}/>;
         })
         setFotos(imgsrc);
         console.log(responseJson.data)
@@ -20,7 +20,7 @@ export default function App() {
 
   
   return (
-    <div className="container-fluid mt-3">{fotos}</div >
+    <div className="image-list">{fotos}</div >
   )
 }
 
