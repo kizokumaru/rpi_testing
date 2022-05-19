@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 
+
 export default function App() {
   //const [list, setList] = useState(false);
   //const [card, setCard] = useState(false);
@@ -10,8 +11,8 @@ export default function App() {
     fetch('http://localhost:3001/fotos')
       .then((response) => response.json())
       .then((responseJson) => {
-        const imgsrc = responseJson.data.map(({_id,path, name}) => {
-          return <img  key={_id} src={path} alt={name}/>;
+        const imgsrc = responseJson.data.map((image) => {
+          return <ImageCard key={image._id} image={image} />;
         })
         setFotos(imgsrc);
         console.log(responseJson.data)
@@ -23,6 +24,34 @@ export default function App() {
     <div className="image-list">{fotos}</div >
   )
 }
+
+
+class ImageCard extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {spans:0};
+    this.imageRef = React.createRef();
+  }
+
+  componentDidMount() {
+    this.imageRef.current.addEventListener("load", this.setSpans);
+  }
+  setSpans = () => {
+    const height = this.imageRef.current.clientHeight;
+    const spans = Math.ceil(height / 10);
+    this.setState({ spans: spans});
+  }
+  render() {
+    const { name, path } = this.props.image;
+
+    return (
+      <div style={{ gridRowEnd: `span ${this.state.spans}` }}>
+        <img ref={this.imageRef} src={path} alt={name} />
+      </div>
+    );
+  }
+}
+
 
 /*let showCard = (id) => {
 

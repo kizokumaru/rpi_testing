@@ -14,10 +14,7 @@
             '{"firstName":"Peter","lastName":"Jones" }]}';
             const obj = JSON.parse(text);
 
-            
             let root = document.getElementById("root");
-            console.log(root);
-            
             var ul = document.createElement("ul");
             ul.setAttribute("id","lista");
             obj.employees.map(item => {
