@@ -7,7 +7,7 @@ const routes = require('./routes');
 const path = require('path');
 
 const port = 3001;
-logger.info('Probando los logs');
+
 
 // Se invoca la función (de la variable express) y se almacena en la variable app.
 class Server{

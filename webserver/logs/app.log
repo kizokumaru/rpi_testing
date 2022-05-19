@@ -2080,3 +2080,29 @@
 {"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":1.413,"status":304,"timestamp":"Thu May 19 2022 20:28:19 GMT+0200 (hora de verano de Europa central)","url":"/folder1/trees.jpg"}
 {"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":1.557,"status":304,"timestamp":"Thu May 19 2022 20:28:19 GMT+0200 (hora de verano de Europa central)","url":"/folder1/waterfall.jpg"}
 {"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":1.311,"status":304,"timestamp":"Thu May 19 2022 20:28:19 GMT+0200 (hora de verano de Europa central)","url":"/folder1/license.txt"}
+{"level":"info","message":"Arrancando servidor en http://localhost:3001"}
+{"level":"info","message":"Arrancamos rutas"}
+{"level":"info","message":"Arrancando servidor en http://localhost:3001"}
+{"level":"info","message":"Arrancamos rutas"}
+{"contentLength":"2347","level":"info","message":"HTTP Access Log","method":"GET","responseTime":18.855,"status":200,"timestamp":"Thu May 19 2022 20:33:54 GMT+0200 (hora de verano de Europa central)","url":"/fotos"}
+{"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":11.135,"status":304,"timestamp":"Thu May 19 2022 20:34:06 GMT+0200 (hora de verano de Europa central)","url":"/fotos"}
+{"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":6.336,"status":304,"timestamp":"Thu May 19 2022 20:34:07 GMT+0200 (hora de verano de Europa central)","url":"/fotos"}
+{"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":6.29,"status":304,"timestamp":"Thu May 19 2022 20:34:07 GMT+0200 (hora de verano de Europa central)","url":"/folder1/RPiSystem.png"}
+{"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":2.79,"status":304,"timestamp":"Thu May 19 2022 20:34:07 GMT+0200 (hora de verano de Europa central)","url":"/folder1/folder2/aurora.jpg"}
+{"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":5.867,"status":304,"timestamp":"Thu May 19 2022 20:34:07 GMT+0200 (hora de verano de Europa central)","url":"/folder1/folder2/balloon.jpg"}
+{"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":16.258,"status":304,"timestamp":"Thu May 19 2022 20:34:07 GMT+0200 (hora de verano de Europa central)","url":"/folder1/folder2/bridge.jpg"}
+{"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":2.942,"status":304,"timestamp":"Thu May 19 2022 20:34:07 GMT+0200 (hora de verano de Europa central)","url":"/folder1/folder2/canyon.jpg"}
+{"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":6.406,"status":304,"timestamp":"Thu May 19 2022 20:34:07 GMT+0200 (hora de verano de Europa central)","url":"/folder1/folder2/cliff.jpg"}
+{"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":6.742,"status":304,"timestamp":"Thu May 19 2022 20:34:07 GMT+0200 (hora de verano de Europa central)","url":"/folder1/folder2/clouds.jpg"}
+{"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":10.127,"status":304,"timestamp":"Thu May 19 2022 20:34:07 GMT+0200 (hora de verano de Europa central)","url":"/folder1/folder2/fisherman.jpg"}
+{"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":4.45,"status":304,"timestamp":"Thu May 19 2022 20:34:07 GMT+0200 (hora de verano de Europa central)","url":"/folder1/folder2/fjord.jpg"}
+{"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":9.843,"status":304,"timestamp":"Thu May 19 2022 20:34:07 GMT+0200 (hora de verano de Europa central)","url":"/folder1/folder2/islands.jpg"}
+{"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":18.367,"status":304,"timestamp":"Thu May 19 2022 20:34:07 GMT+0200 (hora de verano de Europa central)","url":"/folder1/folder2/lasers.jpg"}
+{"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":8.673,"status":304,"timestamp":"Thu May 19 2022 20:34:07 GMT+0200 (hora de verano de Europa central)","url":"/folder1/lasers.jpg"}
+{"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":11.138,"status":304,"timestamp":"Thu May 19 2022 20:34:07 GMT+0200 (hora de verano de Europa central)","url":"/folder1/mountain.jpg"}
+{"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":12.652,"status":304,"timestamp":"Thu May 19 2022 20:34:07 GMT+0200 (hora de verano de Europa central)","url":"/folder1/raspberry-pi-logo.png"}
+{"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":16.63,"status":304,"timestamp":"Thu May 19 2022 20:34:07 GMT+0200 (hora de verano de Europa central)","url":"/folder1/road.jpg"}
+{"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":2.137,"status":304,"timestamp":"Thu May 19 2022 20:34:07 GMT+0200 (hora de verano de Europa central)","url":"/folder1/sand.jpg"}
+{"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":2.288,"status":304,"timestamp":"Thu May 19 2022 20:34:07 GMT+0200 (hora de verano de Europa central)","url":"/folder1/temple.jpg"}
+{"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":1.762,"status":304,"timestamp":"Thu May 19 2022 20:34:07 GMT+0200 (hora de verano de Europa central)","url":"/folder1/trees.jpg"}
+{"contentLength":"-","level":"info","message":"HTTP Access Log","method":"GET","responseTime":3.586,"status":304,"timestamp":"Thu May 19 2022 20:34:07 GMT+0200 (hora de verano de Europa central)","url":"/folder1/waterfall.jpg"}
