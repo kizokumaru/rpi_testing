@@ -1,23 +1,30 @@
 import React, { useState, useEffect } from "react";
 
 export default function App() {
-  const [list, setList] = useState(false);
-  const [card, setCard] = useState(false);
-  const [table, setTable] = useState(true);
-  const [players, setPlayers] = useState([]);
-  const [player, setPlayer] = useState({});
+  //const [list, setList] = useState(false);
+  //const [card, setCard] = useState(false);
+  //const [player, setPlayer] = useState({});
+  const [fotos, setFotos] = useState([]);
 
-  console.log('React app nestor');
   useEffect(() => {
     fetch('http://localhost:3001/fotos')
       .then((response) => response.json())
       .then((responseJson) => {
-        setPlayers(responseJson.data);
+        const imgsrc = responseJson.data.map(({_id,path, name}) => {
+          return <img key={_id} src={path} alt={name}/>;
+        })
+        setFotos(imgsrc);
         console.log(responseJson.data)
       });
   }, []);
 
-  let showCard = (id) => {
+  
+  return (
+    <div className="container-fluid mt-3">{fotos}</div >
+  )
+}
+
+/*let showCard = (id) => {
 
     fetch(`http://localhost:3001/fotos/${id}`)
       .then((response) => response.json())
@@ -25,7 +32,7 @@ export default function App() {
         setPlayer(responseJson.data);
         setList(false);
         setCard(true);
-        setCard(false);
+        setTable(false);
       });
 
   };
@@ -34,14 +41,10 @@ export default function App() {
     setCard(false);
     setList(true);
     setCard(false);
-  };
+    setTable(false);
+  };*/
 
-
-
-
-  return (
-    <div className="container">
-      {list ? (
+/*{list ? (
         <div className="list-group">
           {players.map((player) => (
             <li
@@ -53,7 +56,6 @@ export default function App() {
           ))}
         </div>
       ) : null}
-
       {card ? (
         <div class="card" style={{ width: "18rem" }}>
           <div class="card-body">
@@ -65,15 +67,5 @@ export default function App() {
           </div>
         </div>
       ) : null}
-      {table ? (
-        <div class="row">
-            {players.map((player) => (
-              <div class=".col-sm">
-            <img src={player.path} alt="Los Angeles" ></img>
-          </div>
-          ))}
-        </div>
-      ) : null}
-    </div >
-  )
-}
+
+      */

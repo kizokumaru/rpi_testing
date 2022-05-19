@@ -1,21 +1,34 @@
 <!DOCTYPE html>
 <html>
+
 <body>
 
-<h2>Create Object from JSON String</h2>
+    <h2>Create Object from JSON String</h2>
 
-<p id="demo"></p>
+    <div id="root"></div>
 
-<script>
-let text = '{"employees":[' +
-'{"firstName":"John","lastName":"Doe" },' +
-'{"firstName":"Anna","lastName":"Smith" },' +
-'{"firstName":"Peter","lastName":"Jones" }]}';
+    <script>
+        let text = '{"employees":[' +
+            '{"firstName":"John","lastName":"Doe" },' +
+            '{"firstName":"Anna","lastName":"Smith" },' +
+            '{"firstName":"Peter","lastName":"Jones" }]}';
+            const obj = JSON.parse(text);
 
-const obj = JSON.parse(text);
-document.getElementById("demo").innerHTML =
-obj.employees[1].firstName + " " + obj.employees[1].lastName;
-</script>
+            
+            let root = document.getElementById("root");
+            console.log(root);
+            
+            var ul = document.createElement("ul");
+            ul.setAttribute("id","lista");
+            obj.employees.map(item => {
+
+                var li = document.createElement('li');
+                li.appendChild(document.createTextNode(item.lastName));
+                ul.appendChild(li);
+            })
+            root.appendChild(ul);
+    </script>
 
 </body>
+
 </html>
