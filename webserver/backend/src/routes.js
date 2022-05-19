@@ -6,26 +6,11 @@ const listfiles = require('./utils/listfiles.js');
     logger.info('Arrancamos rutas');
     this.app = app;
     this.fotoslist = new listfiles().getFilesInFolder("/home/nestor/Imágenes", 0);
-    this.getRoot();
-    this.getCursos();
     this.getFotos();
     this.getFoto();
   }
 
-  getRoot() {
-    this.app.get('/', function (req, res) {
-      res.status(200).sendFile(__dirname + "/index.html");
-      console.log("Página de inicio...")
-    })
-  }
-
-  getCursos() {
-    this.app.get('/cursos', function (req, res) {
-      res.send('Estos son los cursos');
-      console.log("Página de cursos");
-    })
-  }
-  
+    
   getFotos() {
     this.app.get("/fotos", async (req, res) => {
       try {
@@ -35,7 +20,7 @@ const listfiles = require('./utils/listfiles.js');
           {
           data: this.fotoslist
         });
-        console.log(res);
+        
       } catch (err) {
         res.status(400).json({
           message: "Some error occured",

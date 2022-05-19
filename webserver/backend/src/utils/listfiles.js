@@ -19,7 +19,7 @@ class ListFiles {
         
         var list = [];
         fs.readdirSync(folderName).map(fileName => {
-          console.log(folderName.substring(folderName.indexOf('/home/nestor/Imágenes/') + 1));
+          console.log(fileName);
           
           let filePath = path.join(folderName, fileName);
 

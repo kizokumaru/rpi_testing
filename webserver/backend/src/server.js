@@ -35,18 +35,11 @@ class Server{
   }
   start(){
     this.app.listen(port,  () => {
-      
       logger.info(`Arrancando servidor en http://localhost:${port}`);
-      
-      
       let rt = new routes(this.app);
-
     });
-    
+   
   };
 }
-
-
-
 
 new Server();
