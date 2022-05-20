@@ -1,0 +1,15 @@
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-05-19 21:54 CEST
+Nmap scan report for 192.168.0.22
+Host is up (0.016s latency).
+Not shown: 999 closed ports
+PORT   STATE SERVICE
+53/tcp open  domain
+MAC Address: 48:D2:4F:99:CE:FC (Sagemcom Broadband SAS)
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.2 - 4.9
+Network Distance: 1 hop
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 17.36 seconds

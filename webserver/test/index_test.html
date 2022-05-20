@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+    <h2>Create Object from JSON String</h2>
+
+    <div id="root"></div>
+
+    <script>
+        let text = '{"employees":[' +
+            '{"firstName":"John","lastName":"Doe" },' +
+            '{"firstName":"Anna","lastName":"Smith" },' +
+            '{"firstName":"Peter","lastName":"Jones" }]}';
+            const obj = JSON.parse(text);
+
+            let root = document.getElementById("root");
+            var ul = document.createElement("ul");
+            ul.setAttribute("id","lista");
+            obj.employees.map(item => {
+
+                var li = document.createElement('li');
+                li.appendChild(document.createTextNode(item.lastName));
+                ul.appendChild(li);
+            })
+            root.appendChild(ul);
+    </script>
+
+</body>
+
+</html>
