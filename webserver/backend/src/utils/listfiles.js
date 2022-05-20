@@ -12,6 +12,7 @@ const folderName = pathserver + '/public';
 class ListFiles {
     constructor(){
         this.pathFile ="";
+        this.seqControl=0;
     }
     
     getFilesInFolder = (folderName,level) => {
@@ -30,7 +31,7 @@ class ListFiles {
           }
       
           if (stats.isFile() && extensions.includes(path.extname(fileName))) { 
-            let file = new File(fileName, filePath.replace(pathorigin,localhost_port), stats.dev, stats.ino);
+            let file = new File(fileName, filePath.replace(pathorigin,localhost_port), stats.dev, stats.ino, this.seqControl++);
             list.push(file); 
           }
         })
