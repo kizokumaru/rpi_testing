@@ -1,5 +1,6 @@
 class File {
     constructor(name, path,dev, ino) {
+        this.seq = seq;
         this._id = dev.toString().concat(ino.toString());
         this.name = name;
         this.path = path;
@@ -7,6 +8,7 @@ class File {
         this.ino = ino;
     }
     getId() { return this._id; }
+    getSeq() { return this.seq; }
     getName() { return this.name; }
     setName(name) { this.name = name; }
     getPath() { return this.path; }
