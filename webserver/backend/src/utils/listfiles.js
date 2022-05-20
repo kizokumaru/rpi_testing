@@ -5,7 +5,7 @@ const path = require('path');
 const File = require('./file.js');
 const localhost_port = 'http://localhost:3001/';
 const pathorigin = '/home/nestor/Imágenes/';
-
+const extensions = ['.jpg', '.png']
 const folderName = pathserver + '/public';
 
 
@@ -19,7 +19,7 @@ class ListFiles {
         
         var list = [];
         fs.readdirSync(folderName).map(fileName => {
-          console.log(folderName.substring(folderName.indexOf('/home/nestor/Imágenes/') + 1));
+          
           
           let filePath = path.join(folderName, fileName);
 
@@ -29,7 +29,7 @@ class ListFiles {
             list = list.concat(this.getFilesInFolder(filePath,level));
           }
       
-          if (stats.isFile()) { 
+          if (stats.isFile() && extensions.includes(path.extname(fileName))) { 
             let file = new File(fileName, filePath.replace(pathorigin,localhost_port), stats.dev, stats.ino);
             list.push(file); 
           }

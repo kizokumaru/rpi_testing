@@ -1,0 +1,52 @@
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-05-19 21:20 CEST
+Nmap scan report for 192.168.0.1
+Host is up (0.15s latency).
+MAC Address: 10:62:D0:23:55:5C (Technicolor CH USA)
+Nmap scan report for 192.168.0.11
+Host is up (0.37s latency).
+MAC Address: 2C:71:FF:FC:15:30 (Unknown)
+Nmap scan report for 192.168.0.13
+Host is up (0.20s latency).
+MAC Address: 82:74:7D:D3:DD:47 (Unknown)
+Nmap scan report for 192.168.0.14
+Host is up (0.28s latency).
+MAC Address: B0:10:41:CF:20:22 (Hon Hai Precision Ind.)
+Nmap scan report for 192.168.0.15
+Host is up (0.25s latency).
+MAC Address: AC:67:84:3C:F3:DE (Google)
+Nmap scan report for 192.168.0.16
+Host is up (0.13s latency).
+MAC Address: 2A:6C:07:4E:61:75 (Unknown)
+Nmap scan report for 192.168.0.17
+Host is up (0.42s latency).
+MAC Address: C0:8C:71:B4:CF:D2 (Motorola Mobility, a Lenovo Company)
+Nmap scan report for 192.168.0.18
+Host is up (0.36s latency).
+MAC Address: DA:45:1C:44:0E:DD (Unknown)
+Nmap scan report for 192.168.0.19
+Host is up (0.15s latency).
+MAC Address: A4:38:CC:CF:70:F9 (Nintendo)
+Nmap scan report for 192.168.0.20
+Host is up (0.15s latency).
+MAC Address: C0:3C:04:E2:F6:4C (Unknown)
+Nmap scan report for 192.168.0.21
+Host is up (0.033s latency).
+MAC Address: BC:14:85:B7:5C:17 (Samsung Electronics)
+Nmap scan report for 192.168.0.22
+Host is up (0.0061s latency).
+MAC Address: 48:D2:4F:99:CE:FC (Sagemcom Broadband SAS)
+Nmap scan report for 192.168.0.24
+Host is up (0.15s latency).
+MAC Address: 22:08:5C:B5:F9:22 (Unknown)
+Nmap scan report for 192.168.0.26
+Host is up (0.025s latency).
+MAC Address: F4:F5:D8:EE:12:78 (Google)
+Nmap scan report for 192.168.0.27
+Host is up (0.15s latency).
+MAC Address: 2A:6C:07:4E:61:75 (Unknown)
+Nmap scan report for 192.168.0.254
+Host is up (0.12s latency).
+MAC Address: 10:62:D0:23:55:5E (Technicolor CH USA)
+Nmap scan report for 192.168.0.28
+Host is up.
+Nmap done: 256 IP addresses (17 hosts up) scanned in 34.23 seconds
