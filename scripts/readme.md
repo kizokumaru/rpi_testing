@@ -1,5 +1,5 @@
 https://linuxize.com/post/how-to-run-linux-commands-in-background/
-
+nmap -sP 192.168.1.0/24 | grep -B 2 "00:11:32:XX:XX:XX" | head -n 1 | cut -d " " -f 5
 {
   "data": {
     "Starting Nmap": " 7.80 ( https://Nmap.org ) at 2022-05-19 21:20 CEST",

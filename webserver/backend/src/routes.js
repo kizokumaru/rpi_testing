@@ -1,7 +1,7 @@
-const logger = require("./utils/logger.js");
-const listfiles = require('./utils/listfiles.js');
+import logger from './utils/logger.js';
+import listfiles from  './utils/listfiles.js';
 
- class Routes {
+class Routes {
   constructor(app) {
     logger.info('Arrancamos rutas');
     this.app = app;
@@ -50,4 +50,4 @@ const listfiles = require('./utils/listfiles.js');
     });
   }
 }
-module.exports = Routes;
+export default Routes;

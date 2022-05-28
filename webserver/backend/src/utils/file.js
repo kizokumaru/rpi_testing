@@ -19,4 +19,4 @@ class File {
     setIno(ino) { this.ino = ino; }
 }
 
-module.exports = File;
+export default File;

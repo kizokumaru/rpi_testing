@@ -1,2 +1,2 @@
 const pathServer = process.cwd();
-module.exports = pathServer;
+export default pathServer;

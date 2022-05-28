@@ -1,23 +1,24 @@
-const listfiles = require('../../backend/src/utils/listfiles.js');
+import test from 'node:test';
+import listfiles from '../../backend/src/utils/listfiles.mjs';
 
-test('Recorremos una carpeta y mostramos los elementos internos identificando si es carpeta o fichero, si es carpeta llamamos a la misma funcion.',() => {
+test('synchronous passing test', (t) => {
+  assert.strictEqual(1, 1);
+});
+
+test('Test del testing', (t) => {
+  let expect = "1";
+  let actual = "3";
+  assert.strictEqual(1, 2);
+  assert.strictEqual('Hello foobar', 'Hello World!');
+});
+
+test('Recorremos una carpeta y mostramos los elementos internos identificando si es carpeta o fichero, si es carpeta llamamos a la misma funcion.',(t) => {
   let lf = new listfiles();
   let list = lf.getFilesInFolder("/home/nestor/Imágenes", 0);
   let listOfName = list.map(f =>{return f.name});
-  console.log(listOfName)
-  console.log(list[0]);
-  expect(listOfName.length>0).toStrictEqual(true);
-  expect(listOfName.includes("lasers.jpg")).toStrictEqual(true);
-  expect(listOfName.includes("road.jpg")).toStrictEqual(true);
-  expect(list[0].name).toStrictEqual('RPiSystem.png');
+  assert.strictEqual(listOfName.length>0,true);
+  assert.strictEqual(listOfName.includes("lasers.jpg"),true);
+  assert.strictEqual(listOfName.includes("road.jpg"),true);
+  assert.strictEqual(list[0].name,'RPiSystem.png');
 })
 
-
-test('Obtenemos una foto de la lista.',() => {
-  console.log('Test Obtenemos una foto de la lista');
-  let id = 45826392993;
-  let lf = new listfiles();
-  let list = lf.getFilesInFolder("/home/nestor/Imágenes", 0);
-  let foto = list.find(foto => foto._id === id.toString());
-  console.log(foto);
-})
