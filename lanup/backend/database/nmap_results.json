@@ -1,0 +1,135 @@
+{
+  "data": {
+    "hosts": {
+      "10:62:D0:23:55:5C": {
+        "nmap": "scan report for 192.168.0.1",
+        "host": "is up (0.15s latency).",
+        "alias": null,
+        "mac_address": "10:62:D0:23:55:5C (Technicolor CH USA)"
+      },
+      "2C:71:FF:FC:15:30": {
+        "nmap": "scan report for 192.168.0.11",
+        "host": "is up (0.37s latency).",
+        "alias": "Amazon Echo",
+        "mac_address": "2C:71:FF:FC:15:30 (Unknown)"
+      },
+      "82:74:7D:D3:DD:47": {
+        "nmap": "scan report for 192.168.0.13",
+        "host": "is up (0.20s latency).",
+        "alias": "Android",
+        "mac_address": "82:74:7D:D3:DD:47 (Unknown)"
+      },
+      "B0:10:41:CF:20:22": {
+        "nmap": "scan report for 192.168.0.14",
+        "host": "is up (0.28s latency).",
+        "alias": "BrotherHL1210W",
+        "mac_address": "B0:10:41:CF:20:22 (Hon Hai Precision Ind.)"
+      },
+      "AC:67:84:3C:F3:DE": {
+        "nmap": "scan report for 192.168.0.15",
+        "host": "is up (0.25s latency).",
+        "alias": "ChromeCast",
+        "mac_address": "AC:67:84:3C:F3:DE (Google)"
+      },
+      "2A:6C:07:4E:61:75": {
+        "nmap": "scan report for 192.168.0.16",
+        "host": "is up (0.13s latency).",
+        "alias": "Router IoT",
+        "mac_address": "2A:6C:07:4E:61:75 (Unknown)"
+      },
+      "C0:8C:71:B4:CF:D2": {
+        "nmap": "scan report for 192.168.0.17",
+        "host": "is up (0.42s latency).",
+        "alias": "Movil Motorola (Bea)",
+        "mac_address": "C0:8C:71:B4:CF:D2 (Motorola Mobility, a Lenovo Company)"
+      },
+      "DA:45:1C:44:0E:DD": {
+        "nmap": "scan report for 192.168.0.18",
+        "host": "is up (0.36s latency).",
+        "alias": "Motorola Nestor",
+        "mac_address": "DA:45:1C:44:0E:DD (Unknown)"
+      },
+      "A4:38:CC:CF:70:F9": {
+        "nmap": "scan report for 192.168.0.19",
+        "host": "is up (0.15s latency).",
+        "alias": "Switch",
+        "mac_address": "A4:38:CC:CF:70:F9 (Nintendo)"
+      },
+      "C0:3C:04:E2:F6:4C": {
+        "nmap": "scan report for 192.168.0.20",
+        "host": "is up (0.15s latency).",
+        "alias": "Pod_SKU123456",
+        "mac_address": "C0:3C:04:E2:F6:4C (Unknown)"
+      },
+      "BC:14:85:B7:5C:17": {
+        "nmap": "scan report for 192.168.0.21",
+        "host": "is up (0.033s latency).",
+        "alias": "TV",
+        "mac_address": "BC:14:85:B7:5C:17 (Samsung Electronics)"
+      },
+      "48:D2:4F:99:CE:FC": {
+        "nmap": "scan report for 192.168.0.22",
+        "host": "is up (0.0061s latency).",
+        "alias": null,
+        "mac_address": "48:D2:4F:99:CE:FC (Sagemcom Broadband SAS)"
+      },
+      "22:08:5C:B5:F9:22": {
+        "nmap": "scan report for 192.168.0.24",
+        "host": "is up (0.15s latency).",
+        "alias": null,
+        "mac_address": "22:08:5C:B5:F9:22 (Unknown)"
+      },
+      "F4:F5:D8:EE:12:78": {
+        "nmap": "scan report for 192.168.0.26",
+        "host": "is up (0.025s latency).",
+        "alias": "ChromeCast2",
+        "mac_address": "F4:F5:D8:EE:12:78 (Google)"
+      },
+      "10:62:D0:23:55:5E": {
+        "nmap": "scan report for 192.168.0.254",
+        "host": "is up (0.12s latency).",
+        "alias": null,
+        "mac_address": "10:62:D0:23:55:5E (Technicolor CH USA)"
+      },
+      "A8:6D:AA:37:0C:30": {
+        "nmap": "scan report for 192.168.0.28",
+        "host": "is up.",
+        "alias": null,
+        "mac_address":"A8:6D:AA:37:0C:30"
+      },
+      "DC:A6:32:A1:0F:F6": {
+        "nmap": "scan report for 192.168.0.28",
+        "host": "is up.",
+        "alias": null,
+        "mac_address":"DC:A6:32:A1:0F:F6"
+      },
+      "70:10:6F:3E:72:D0":
+       {
+        "nmap": "scan report for 192.168.0.28",
+        "host": "is up.","alias": "Server 8 - kumo",
+        "mac_address":"70:10:6F:3E:72:D0"
+      },
+      "5C:96:56:15:08:87":
+       {
+        "nmap": null,
+        "host": null,
+        "alias": null,
+        "mac_address":"5C:96:56:15:08:87"
+      },
+      "DC:A6:32:77:C7:C8":
+      {
+       "nmap": null,
+       "host": null,
+       "alias": null,
+       "mac_address":"DC:A6:32:77:C7:C8"
+     },
+      "00:00:00:00:00:00":
+      {
+       "nmap": null,
+       "host": null,
+       "alias": null,
+       "mac_address":"00:00:00:00:00:00"
+     }
+    }
+  }
+}
