@@ -31,7 +31,7 @@ shell.exec(sentence, {silent:true}, function(code, stdout, stderr) {
       console.log('index: ' + index)
       if(currentValue.match('^MAC Address:')){
         let mac = currentValue.replace(regex, subst).substring(0,17)
-        console.log(jsonData[mac]);
+        console.log(jsonData.data.hosts[mac]);
       }
       //console.log('arr: ' + arr)
     })
