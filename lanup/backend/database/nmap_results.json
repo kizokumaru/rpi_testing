@@ -4,7 +4,7 @@
       "10:62:D0:23:55:5C": {
         "nmap": "scan report for 192.168.0.1",
         "host": "is up (0.15s latency).",
-        "alias": null,
+        "alias": "Router Vodafone",
         "mac_address": "10:62:D0:23:55:5C (Technicolor CH USA)"
       },
       "2C:71:FF:FC:15:30": {
@@ -76,7 +76,7 @@
       "22:08:5C:B5:F9:22": {
         "nmap": "scan report for 192.168.0.24",
         "host": "is up (0.15s latency).",
-        "alias": null,
+        "alias": "Movil Empresa Néstor",
         "mac_address": "22:08:5C:B5:F9:22 (Unknown)"
       },
       "F4:F5:D8:EE:12:78": {
@@ -113,16 +113,30 @@
        {
         "nmap": null,
         "host": null,
-        "alias": null,
+        "alias": "PS4",
         "mac_address":"5C:96:56:15:08:87"
       },
       "DC:A6:32:77:C7:C8":
       {
        "nmap": null,
        "host": null,
-       "alias": null,
+       "alias": "Raspberry Bernat",
        "mac_address":"DC:A6:32:77:C7:C8"
      },
+     "00:0F:00:62:5F:55":
+     {
+      "nmap": null,
+      "host": null,
+      "alias": "px10712 - Ordenador Trabajo Beatriz",
+      "mac_address":"00:0F:00:62:5F:55"
+    },
+    "24:41:8C:3D:43:6B":
+    {
+     "nmap": null,
+     "host": null,
+     "alias": "Portatil Beatriz",
+     "mac_address":"24:41:8C:3D:43:6B"
+   },
       "00:00:00:00:00:00":
       {
        "nmap": null,

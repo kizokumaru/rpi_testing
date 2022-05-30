@@ -1,4 +1,8 @@
 #!/bin/bash
+parsejsonfile(){
+    grep -o '"MAC_Address": "[^"]*' ../nmap_results.json | grep -o '^C"]*$'
+}
+parsejsonfile
 
 testfunction(){
    echo "My first function"

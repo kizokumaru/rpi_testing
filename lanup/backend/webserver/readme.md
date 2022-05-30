@@ -51,3 +51,9 @@ Revisar tutorial [react frontend, express backend y contectarlos](https://www.te
 Acceso a imagenes por http://localhost:3001/folder1/lasers.jpg
 ## Documentar servicios.
 Utilizaremos el estandar de [Open Api](https://oai.github.io/Documentation/start-here.html)
+
+
+# Nmap sin sudo
+sudo apt-get install libcap2-bin 
+getcap
+sudo setcap cap_net_raw,cap_net_admin,cap_net_bind_service+eip $(which nmap)

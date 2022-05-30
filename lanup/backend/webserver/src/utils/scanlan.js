@@ -1,23 +1,28 @@
 import nmap from 'node-nmap';
-nmap.nmapLocation = 'nmap'; //default
 import fs from 'node:fs';
-const jsonData = JSON.parse(fs.readFileSync('../../../database/nmap_results.json', 'utf-8'))
+nmap.nmapLocation = 'nmap'; //default
 
-let quickscan = new nmap.QuickScan('--privileged -sn 192.168.0.0/24');
+class Scanlan{
+    constructor(){
+        this.jsonData=JSON.parse(fs.readFileSync('../../../database/nmap_results.json', 'utf-8'));
+    }
 
-quickscan.on('complete', function (data) {
-    console.log(data[0]);
-    /*data.map(item=>{
-        console.log(jsonData[item.mac].alias);
-    })*/
-    
-});
+    scan(){
+        let quickscan = new nmap.QuickScan('--privileged -sn 192.168.0.0/24');
 
-quickscan.on('error', function (error) {
-    console.log(error);
-});
-
-quickscan.startScan();
-
-/*class Scanlan{
-}*/
+        quickscan.on('complete', function (data) {
+            console.log(data[0]);
+            /*data.map(item=>{
+                console.log(jsonData[item.mac].alias);
+            })*/
+            
+        });
+        
+        quickscan.on('error', function (error) {
+            console.log(error);
+        });
+        
+        quickscan.startScan();
+    }
+}
+export default Scanlan;

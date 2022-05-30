@@ -6,7 +6,7 @@ import pathserver from './utils/config.js';
 import routes from './routes';
 import { join } from 'node:path';
 
-const port = 3001;
+const port = 3005;
 
 
 // Se invoca la función (de la variable express) y se almacena en la variable app.
