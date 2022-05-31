@@ -1,9 +1,9 @@
 // require: Trae la librería express del npm.
-import express, { Router, static } from 'node:express';
-import { info } from './utils/logger.js';
-import httpLogger from './utils/httpLogger';
+import express, { Router} from 'express';
+import logger from './utils/logger.js';
+import httpLogger from './utils/httpLogger.js';
 import pathserver from './utils/config.js';
-import routes from './routes';
+import routes from './routes.js';
 import { join } from 'node:path';
 
 const port = 3005;
@@ -27,7 +27,8 @@ class Server{
   initAccesPublicFolder(){
     console.log('pathserver: '  +pathserver)
     console.log('pathserver + public'+join(pathserver + '/public'));
-    this.app.use(static(join(pathserver + '/public')));
+    this.app.use(express.static(join(pathserver + '/public')));
+    this.app.use(express.static(join(pathserver + '/database')));
     //http://localhost:3001/folder1/lasers.jpg - Funciona
   }
   initHttpLogger(){
@@ -35,7 +36,7 @@ class Server{
   }
   start(){
     this.app.listen(port,  () => {
-      info(`Arrancando servidor en http://localhost:${port}`);
+      logger.info(`Arrancando servidor en http://localhost:${port}`);
       let rt = new routes(this.app);
     });
    

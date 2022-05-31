@@ -6,37 +6,41 @@ const regex = /^MAC Address: /gm;
 const subst = '';
 
 let di = new Date();
-  console.log( 'Inicio a '+
+console.log('Inicio a ' +
   di.getHours() + ":" +
   di.getMinutes() + ":" +
   di.getSeconds());
-shell.exec(sentence, {silent:true}, function(code, stdout, stderr) {
+
+shell.exec(sentence, { silent: true }, function (code, stdout, stderr) {
   let dm = new Date();
-  console.log( 'Procesamos a '+
-  dm.getHours() + ":" +
-  dm.getMinutes() + ":" +
-  dm.getSeconds());
-  if(code==0){
+
+  console.log('Procesamos a ' +
+    dm.getHours() + ":" +
+    dm.getMinutes() + ":" +
+    dm.getSeconds());
+  
+  if (code == 0) {
     console.log('Finaliza correctamente el nmap')
     console.log(stdout);
-    console.log(typeof(stdout));
+    console.log(typeof (stdout));
     let lines = stdout.split('\n');
     lines.shift();
     lines.shift();
     lines.pop();
     lines.pop();
     console.log(lines.length);
-    lines.forEach((currentValue, index, arr) =>{
+    lines.forEach((currentValue, index, arr) => {
       console.log('currentValue: ' + currentValue)
       console.log('index: ' + index)
-      if(currentValue.match('^MAC Address:')){
-        let mac = currentValue.replace(regex, subst).substring(0,17)
+      if (currentValue.match('^MAC Address:')) {
+        let mac = currentValue.replace(regex, subst).substring(0, 17)
         console.log(jsonData.data.hosts[mac]);
       }
       //console.log('arr: ' + arr)
     })
-  }else{
+  } else {
     console.log('code: ' + code);
     console.log('stderr: ' + stderr);
   }
+  
 });
