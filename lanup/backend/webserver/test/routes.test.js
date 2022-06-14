@@ -31,8 +31,8 @@ async function test() {
           if (jsonData.data.hosts[mac] == undefined) {
             new Error('Mac ' + mac + ' no esta controlada, incorporarla en fichero json.')
           } else {
-            jsonData.data.hosts[mac].host = "Live";
-            jsonData.data.hosts[mac].nmap = ip;
+            jsonData.data.hosts[mac].state = "Live";
+            jsonData.data.hosts[mac].ip = ip;
             console.log('Objeto Mod: ' + JSON.stringify(jsonData.data.hosts[mac]));
           }
         }

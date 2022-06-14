@@ -36,7 +36,7 @@ class Server{
   }
   start(){
     this.app.listen(port,  () => {
-      logger.info(`Arrancando servidor en http://localhost:${port}`);
+      logger.info(`Arrancando servidor en http://localhost:${port}/lan`);
       let rt = new routes(this.app);
     });
    
